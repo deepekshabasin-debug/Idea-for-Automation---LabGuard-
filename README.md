@@ -1,6 +1,6 @@
 # SMART LabGuard: Smart Laboratory Monitoring and Protection System 🛡️⚡
 
-### 🏆 Smart India Hackathon (SIH) 2026 - Problem Statement ID #6
+### 🏆 Smart India Hackathon (SIH) 2026 - Internal Hackathon
 **Developed by Team TECHTRONIX**  
 *An IoT-driven, sub-millisecond physical circuit protection and predictive maintenance network designed for academic and industrial engineering laboratories.*
 
